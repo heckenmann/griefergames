@@ -1,4 +1,4 @@
-![Zur Übersicht](README.md)
+[Zur Übersicht](README.md)
 
 # Community-Farmen
 
