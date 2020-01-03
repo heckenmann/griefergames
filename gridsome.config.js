@@ -1,0 +1,5 @@
+transformers: {
+    remark: {
+      externalLinksTarget: false
+    }
+  }
