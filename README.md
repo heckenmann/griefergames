@@ -1,2 +1,2 @@
 # Griefergames Notizen
-- ![Community-Farmen](farmen.md)
+- ![Community-Farmen](./farmen.md)
