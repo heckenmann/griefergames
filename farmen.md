@@ -1,0 +1,40 @@
+![Zur Übersicht](Readme.md)
+
+# Community-Farmen
+
+|CB|/p h|Beschreibung|
+|---|---|---|
+|1|eiswelt||
+|2|lpm||
+|2|tmbfarm||
+|2|tmlfarm||
+|2|expfarm||
+|3|xpfarm||
+|3|bncfarm||
+|6|away||
+|7|hölle||
+|7|feuerwerk||
+|7|village||
+|7|farmen||
+|7|opfarm||
+|7|goldep||
+|7|Hexe||
+|7|Fleisch||
+|7|Kaktus||
+|7|FluffyEP||
+|7|Minihölle||
+|7|Lohe||
+|7|ep||
+|7|smaragd||
+|7|guardianfarm||
+|7|schaf||
+|8|FameQ||
+|8|fr3acfarm||
+|9|freeitems||
+|10|$||
+|10|pyrofarm||
+|10|mrfarm||
+|12|FischTeich||
+|12|freevillager||
+|14|glassfarm||
+|16|CbG||
