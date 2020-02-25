@@ -13,6 +13,15 @@
 |2|expfarm||
 |3|xpfarm||
 |3|bncfarm||
+|3|AutomatischeFarm|Pflanzen|
+|3|sheepshop||
+|3|DasDorf|Villager|
+|3|biohof||
+|3|DieMühle||
+|3|xp-farm||
+|3|farmlvl||
+|3|bncfarm||
+|3|mobsfarm||
 |6|away||
 |7|hölle||
 |7|tmlfarm||
@@ -42,3 +51,6 @@
 |14|glassfarm||
 |16|CbG||
 |22|dtyfarm||
+
+Externe Quellen:
+- https://griefergames.de/forum/thread/12689-verzeichnis-der-farmen/
