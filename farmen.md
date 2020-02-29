@@ -22,6 +22,7 @@
 |3|farmlvl||
 |3|bncfarm||
 |3|mobsfarm||
+|5|jedifarm||
 |6|away||
 |7|hölle||
 |7|tmlfarm||
